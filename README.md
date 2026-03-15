@@ -86,10 +86,10 @@ An iterative rewriting approach where the model reflects on the query before gen
 ### Retrieval Performance by Retriever
 
 Dense retrieval consistently achieves the highest recall across both datasets.
-![](/figures/recall_by_dataset.png)
+![](/figures/recall_by_retriever.png)
 
 Query rewriting provides small but measurable improvements in several configurations.
-![](/figures/recall_by_retriever.png)
+![](/figures/recall_by_dataset.png)
 
 Key observations:
 
