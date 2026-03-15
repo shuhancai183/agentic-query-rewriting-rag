@@ -1,8 +1,15 @@
-# Agentic Query Rewriting for Retrieval-Augmented Generation
+# Evaluating Query Rewriting Strategies in Retrieval-Augmented Generation
 
 Improving retrieval recall and answer accuracy in Retrieval-Augmented Generation (RAG) pipelines via LLM-based query rewriting.
 
 ---
+## Research Summary
+
+Retrieval-Augmented Generation (RAG) systems critically depend on the quality of the retrieval step. However, user queries are often underspecified or poorly aligned with document representations, leading to missing evidence and hallucinated answers. This project investigates whether **LLM-based query rewriting** can improve retrieval effectiveness and downstream question answering performance.
+
+A modular RAG evaluation framework is implemented to compare **four query strategies** (baseline, single rewrite, multi-query expansion, and reflective rewriting) across **three retrieval systems** (BM25, dense retrieval, and hybrid retrieval) and **two benchmark datasets** (HotpotQA and BEIR-FiQA). In total, **24 experimental configurations** are evaluated using retrieval metrics (loose recall, strict recall) and generation metrics (EM, F1, hallucination rate).
+
+Results show that query rewriting improves recall for sparse retrievers and multi-hop QA tasks, but provides limited gains when dense retrieval already achieves strong semantic matching. Aggressive query expansion can significantly degrade hybrid retrieval performance, highlighting the complex interaction between lexical reformulation and sparse ranking signals. These findings suggest that query rewriting is most beneficial when retrieval suffers from lexical mismatch or when questions require multi-hop evidence discovery.
 
 # Abstract
 
@@ -124,6 +131,51 @@ Reliability
 ---
 
 # Results
+## Overall Experimental Results
+
+The table below summarizes the performance across all **24 experimental configurations**.
+
+| Dataset | Retriever | Strategy | Loose Recall | Strict Recall | EM | F1 | Hallucination |
+|---|---|---|---|---|---|---|---|
+| BEIR-FiQA | BM25 | Baseline | 0.455 | 0.180 | 0.000 | 0.000 | 0.250 |
+| BEIR-FiQA | BM25 | Single Rewrite | 0.415 | 0.125 | 0.000 | 0.000 | 0.235 |
+| BEIR-FiQA | BM25 | Multi Rewrite | **0.510** | **0.195** | 0.000 | 0.000 | 0.310 |
+| BEIR-FiQA | BM25 | Reflective Rewrite | 0.435 | 0.140 | 0.000 | 0.000 | 0.255 |
+| BEIR-FiQA | Dense | Baseline | **0.855** | **0.450** | 0.000 | 0.000 | 0.465 |
+| BEIR-FiQA | Dense | Single Rewrite | 0.845 | 0.445 | 0.000 | 0.000 | 0.480 |
+| BEIR-FiQA | Dense | Multi Rewrite | 0.840 | 0.440 | 0.000 | 0.000 | 0.465 |
+| BEIR-FiQA | Dense | Reflective Rewrite | 0.840 | 0.435 | 0.000 | 0.000 | 0.450 |
+| BEIR-FiQA | Hybrid | Baseline | **0.805** | **0.395** | 0.000 | 0.000 | 0.370 |
+| BEIR-FiQA | Hybrid | Single Rewrite | 0.745 | 0.330 | 0.000 | 0.000 | 0.375 |
+| BEIR-FiQA | Hybrid | Multi Rewrite | **0.305** | **0.090** | 0.000 | 0.000 | 0.215 |
+| BEIR-FiQA | Hybrid | Reflective Rewrite | 0.765 | 0.335 | 0.000 | 0.000 | 0.330 |
+| HotpotQA | BM25 | Baseline | 0.778 | 0.230 | 0.254 | 0.330 | 0.066 |
+| HotpotQA | BM25 | Single Rewrite | 0.766 | 0.236 | 0.254 | 0.325 | 0.070 |
+| HotpotQA | BM25 | Multi Rewrite | **0.792** | **0.250** | 0.262 | **0.339** | 0.068 |
+| HotpotQA | BM25 | Reflective Rewrite | 0.782 | **0.250** | **0.266** | 0.335 | **0.054** |
+| HotpotQA | Dense | Baseline | 0.798 | 0.242 | 0.236 | 0.316 | 0.066 |
+| HotpotQA | Dense | Single Rewrite | 0.798 | 0.242 | 0.244 | 0.319 | 0.064 |
+| HotpotQA | Dense | Multi Rewrite | **0.802** | 0.248 | 0.252 | 0.335 | 0.074 |
+| HotpotQA | Dense | Reflective Rewrite | 0.794 | **0.260** | **0.260** | **0.340** | 0.060 |
+| HotpotQA | Hybrid | Baseline | **0.814** | **0.284** | **0.236** | **0.312** | 0.050 |
+| HotpotQA | Hybrid | Single Rewrite | 0.804 | 0.246 | 0.224 | 0.295 | 0.058 |
+| HotpotQA | Hybrid | Multi Rewrite | **0.654** | **0.202** | 0.198 | 0.259 | **0.048** |
+| HotpotQA | Hybrid | Reflective Rewrite | 0.792 | 0.258 | 0.228 | 0.298 | 0.052 |
+
+### Key Observations
+
+Several patterns emerge from the experimental results:
+
+- **Query rewriting benefits sparse retrieval.** On BEIR-FiQA, multi-query rewriting improves BM25 loose recall from **0.455 → 0.510**.
+
+- **Dense retrieval reduces rewriting gains.** Dense retrievers already achieve strong semantic recall (up to **0.855**), leaving limited room for improvement.
+
+- **Hybrid retrieval is sensitive to rewriting.** Multi-query rewriting significantly degrades hybrid retrieval performance (e.g., **0.805 → 0.305** on FiQA).
+
+- **Rewriting helps multi-hop QA.** On HotpotQA, reflective rewriting improves strict recall and answer accuracy (EM **0.236 → 0.260**, F1 **0.316 → 0.340**).
+
+These results highlight that query rewriting is most useful when retrieval suffers from lexical mismatch or multi-hop reasoning requirements.
+
 
 ## Retrieval Recall
 
