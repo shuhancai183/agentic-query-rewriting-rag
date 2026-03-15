@@ -95,6 +95,7 @@ Key observations:
 • Improvements are smaller on **FiQA**, where dense retrieval already performs strongly.
 
 Hallucination rates remain relatively stable across rewriting strategies.
+![](/figures/hallucination_rate.png)
 
 ## Discussion
 
