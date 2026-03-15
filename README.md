@@ -116,46 +116,10 @@ Query rewriting is most beneficial when the baseline retriever struggles with co
 
 ### experiment pipeline
 
-User Query
-     │
-     ▼
-Query Rewriter (LLM)
-     │
-     ▼
-Retriever
-(BM25 / Dense / Hybrid)
-     │
-     ▼
-Retrieved Documents
-     │
-     ▼
-LLM Generator
-     │
-     ▼
-Answer
-     │
-     ▼
-Evaluation
-(Recall / EM / F1 / Hallucination)
+User Query->Query Rewriter (LLM)->Retriever(BM25 / Dense / Hybrid)->Retrieved Documents->LLM Generator->Answer->Evaluation(Recall / EM / F1 / Hallucination)
 
 ### RAG pipeline
-Question
-  │
-  ▼
-Rewrite Strategy
-(Baseline / Single / Multi / Reflective)
-  │
-  ▼
-Retriever
-  │
-  ▼
-Top-k Documents
-  │
-  ▼
-LLM Answer Generation
-  │
-  ▼
-Evaluation Metrics
+Question->Rewrite Strategy(Baseline / Single / Multi / Reflective)->Retriever->Top-k Documents->LLM Answer Generation->Evaluation Metrics
 
 
 ## Contributions
