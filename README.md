@@ -11,6 +11,43 @@ A modular RAG evaluation framework is implemented to compare **four query strate
 
 Results show that query rewriting improves recall for sparse retrievers and multi-hop QA tasks, but provides limited gains when dense retrieval already achieves strong semantic matching. Aggressive query expansion can significantly degrade hybrid retrieval performance, highlighting the complex interaction between lexical reformulation and sparse ranking signals. These findings suggest that query rewriting is most beneficial when retrieval suffers from lexical mismatch or when questions require multi-hop evidence discovery.
 
+## Pipeline Diagram
+
+```mermaid
+flowchart LR
+    A[User Question] --> B{Rewrite Strategy}
+    B --> B1[Baseline]
+    B --> B2[Single Rewrite]
+    B --> B3[Multi Rewrite]
+    B --> B4[Reflective Rewrite]
+
+    B1 --> C[Retriever]
+    B2 --> C
+    B3 --> C
+    B4 --> C
+
+    C --> C1[BM25]
+    C --> C2[Dense Retriever]
+    C --> C3[Hybrid Retriever]
+
+    C1 --> D[Top-k Retrieved Documents]
+    C2 --> D
+    C3 --> D
+
+    D --> E[LLM Answer Generator]
+    E --> F[Predicted Answer]
+
+    D --> G[Retrieval Evaluation]
+    F --> H[Generation Evaluation]
+
+    G --> G1[Loose Recall]
+    G --> G2[Strict Recall]
+
+    H --> H1[Exact Match]
+    H --> H2[F1]
+    H --> H3[Hallucination Rate]
+```
+
 # Abstract
 
 Retrieval-Augmented Generation (RAG) systems rely heavily on the quality of the retrieval step. Poorly formulated queries can lead to missing evidence documents, which often results in hallucinated or incorrect answers from downstream language models.
@@ -328,45 +365,6 @@ User Query
 → Retrieved Documents
 → LLM Answer Generation
 → Evaluation (Recall / EM / F1 / Hallucination)
-
----
-
-## Pipeline Diagram
-
-```mermaid
-flowchart LR
-    A[User Question] --> B{Rewrite Strategy}
-    B --> B1[Baseline]
-    B --> B2[Single Rewrite]
-    B --> B3[Multi Rewrite]
-    B --> B4[Reflective Rewrite]
-
-    B1 --> C[Retriever]
-    B2 --> C
-    B3 --> C
-    B4 --> C
-
-    C --> C1[BM25]
-    C --> C2[Dense Retriever]
-    C --> C3[Hybrid Retriever]
-
-    C1 --> D[Top-k Retrieved Documents]
-    C2 --> D
-    C3 --> D
-
-    D --> E[LLM Answer Generator]
-    E --> F[Predicted Answer]
-
-    D --> G[Retrieval Evaluation]
-    F --> H[Generation Evaluation]
-
-    G --> G1[Loose Recall]
-    G --> G2[Strict Recall]
-
-    H --> H1[Exact Match]
-    H --> H2[F1]
-    H --> H3[Hallucination Rate]
-```
 
 ---
 
