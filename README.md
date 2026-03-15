@@ -393,3 +393,114 @@ This project provides:
 - Empirical comparison across multiple datasets and retrievers
 - Analysis of interactions between query rewriting and hybrid retrieval
 - A modular pipeline for testing future RAG improvements
+
+
+# Case Study
+
+To better understand when query rewriting helps and when it fails, we analyze two representative examples from BEIR-FiQA and HotpotQA.
+
+## Case 1: FiQA retrieval succeeds loosely, but answer generation still hallucinates
+
+**Question**
+
+> How to deposit a cheque issued to an associate in my business into my business account?
+
+### Observation
+
+Across multiple retrievers and rewriting strategies, the system consistently achieved:
+
+- **Loose Recall = 1**
+- **Strict Recall = 0**
+- **EM = 0**
+- **F1 = 0**
+- **Hallucination = 1**
+
+For example, under **BM25 + Baseline**, retrieved document IDs included:
+
+`65404, 422886, 367754, 590102, 64556`
+
+Under **BM25 + Multi Rewrite**, the retrieved IDs slightly changed in ranking:
+
+`65404, 590102, 422886, 367754, 64556`
+
+Despite this retrieval variation, the generated answer remained essentially the same:
+
+> Have the associate sign the back of the cheque and then deposit it into your business account. Alternatively, the associate can endorse it in front of the teller with some ID.
+
+### Analysis
+
+This example shows that **retrieval overlap alone is not sufficient for faithful answer generation**.  
+Although the system retrieved partially relevant evidence, it failed to retrieve a document set that fully supported the final answer under the strict metric.
+
+As a result, the generator produced a plausible banking procedure, but one that was not fully grounded in the retrieved evidence. This leads to:
+
+- high loose recall
+- zero strict recall
+- zero EM/F1
+- full hallucination
+
+### Takeaway
+
+For FiQA-style factual questions, query rewriting may slightly reorder or expand retrieved evidence, but this does not necessarily improve factual grounding if the critical supporting document is still missing.
+
+---
+
+## Case 2: HotpotQA fails because only the first hop is retrieved
+
+**Question**
+
+> In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?
+
+**Gold Answer**
+
+> 1755
+
+### Observation
+
+Across BM25, dense, and hybrid retrieval, as well as across all rewriting strategies, the system consistently retrieved the entity page:
+
+`Sergei Aleksandrovich Tokarev`
+
+However, it failed to retrieve the second-hop evidence needed to answer the question, and the predicted answer was always:
+
+> insufficient information
+
+Typical retrieved titles under **BM25 + Baseline**:
+
+- Sergei Aleksandrovich Tokarev
+- Sergei Aleksandrovich Kudryavtsev
+- Sergei Sholokhov
+- Jeffrey MacKie-Mason
+- Achille Mbembe
+
+Typical retrieved titles under **Dense + Baseline**:
+
+- Sergei Aleksandrovich Tokarev
+- Sergei Kosarev
+- Sergei Dmitrochenko
+- Boris Berezovsky (businessman)
+- Sergei Sholokhov
+
+Metrics remained:
+
+- **Loose Recall = 1**
+- **Strict Recall = 0**
+- **EM = 0**
+- **F1 = 0**
+- **Hallucination = 0**
+
+### Analysis
+
+This is a classic **multi-hop retrieval failure**.
+
+The system successfully retrieved the first-hop entity page about Tokarev, but failed to retrieve the second supporting document about the university where he taught and that university's founding year.
+
+This explains why:
+
+- loose recall is high
+- strict recall remains zero
+- answer generation fails safely with "insufficient information" instead of hallucinating
+
+### Takeaway
+
+For multi-hop QA, query rewriting alone is often insufficient if the retriever cannot explicitly bridge the intermediate reasoning step. This suggests that **multi-hop decomposition or iterative retrieval** may be more effective than simple rewrite-based reformulation.
