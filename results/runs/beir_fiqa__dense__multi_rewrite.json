@@ -1,0 +1,3402 @@
+[
+  {
+    "question": "How to deposit a cheque issued to an associate in my business into my business account?",
+    "gold_answer": "",
+    "pred_answer": "Have the associate sign the back of the cheque and then deposit it into your business account. Alternatively, the associate can endorse it in front of a teller with ID.",
+    "retrieved_ids_or_titles": [
+      "65404",
+      "590102",
+      "508754",
+      "98636",
+      "64556"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Can I send a money order from USPS as a business?",
+    "gold_answer": "",
+    "pred_answer": "Yes, you can send a money order from USPS as a business.",
+    "retrieved_ids_or_titles": [
+      "325273",
+      "204288",
+      "579875",
+      "321826",
+      "474248"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "1 EIN doing business under multiple business names",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "88124",
+      "377152",
+      "431685",
+      "325677",
+      "366761"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Applying for and receiving business credit",
+    "gold_answer": "",
+    "pred_answer": "To apply for and receive business credit, set up a meeting with your bank, bring your business financial statements, and express your desire to establish credit. Your banker may assist with your application even if you have credit history issues. If you are unable to get the desired credit limit initially, you can continue to build your relationship with the banker and reapply in the future. Additionally, consider seeking help from services that specialize in obtaining business credit without personal guarantees or credit checks.",
+    "retrieved_ids_or_titles": [
+      "500755",
+      "483354",
+      "563025",
+      "131177",
+      "285255"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "401k Transfer After Business Closure",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "387876",
+      "338519",
+      "42537",
+      "352757",
+      "168320"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What are the ins/outs of writing equipment purchases off as business expenses in a home based business?",
+    "gold_answer": "",
+    "pred_answer": "You can depreciate equipment as a valid expense for a home-based business, but you should consult an accountant for specific details. Deductions for equipment are generally allowed if the equipment is used exclusively for business purposes. Home office deductions can trigger audits, so it's important to keep meticulous records and be prepared to back up any claims with documentation.",
+    "retrieved_ids_or_titles": [
+      "28764",
+      "517836",
+      "389446",
+      "599876",
+      "183612"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Can a entrepreneur hire a self-employed business owner?",
+    "gold_answer": "",
+    "pred_answer": "Yes.",
+    "retrieved_ids_or_titles": [
+      "572690",
+      "385881",
+      "358175",
+      "401345",
+      "191993"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Intentions of Deductible Amount for Small Business",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "571711",
+      "40257",
+      "517836",
+      "477940",
+      "599876"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How can I deposit a check made out to my business into my personal account?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "413229",
+      "135196",
+      "508754",
+      "98636",
+      "64556"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Filing personal with 1099s versus business s-corp?",
+    "gold_answer": "",
+    "pred_answer": "If you are paid as an individual (1099), the income goes on your Schedule C, and you pay self-employment taxes on it. If the income is paid to your corporation, the corporation will pay you as salary and will incur payroll taxes. Generally, payroll through a corporation will be slightly more expensive than filing a Schedule C.",
+    "retrieved_ids_or_titles": [
+      "31793",
+      "220022",
+      "352640",
+      "65040",
+      "194955"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Using credit card points to pay for tax deductible business expenses",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "274721",
+      "245447",
+      "402503",
+      "325866",
+      "116934"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How can I make $250,000.00 from trading/investing/business within 5 years?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "527522",
+      "519619",
+      "325808",
+      "43603",
+      "405281"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Investing/business with other people's money: How does it work?",
+    "gold_answer": "",
+    "pred_answer": "You either borrow money or get other people to invest in your business by buying stock or something analogous. Investors expect a share of the profit, while borrowing money is risky because if you lose money, you may be unable to pay it back. Debt is generally a cheaper form of financing, and interest is tax deductible. You can structure your capital in various ways, such as equity investments with options for the founder to buy back equity, or through loans where debt investors require a lower return than equity investors due to the lower risk associated with debt.",
+    "retrieved_ids_or_titles": [
+      "575869",
+      "328745",
+      "440898",
+      "454526",
+      "295155"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What approaches are there for pricing a small business?",
+    "gold_answer": "",
+    "pred_answer": "1. Liquidation value: Determine the value of assets minus liabilities.\n2. Discounted cash flow analysis: Project EBITDA and use a growing perpetuity formula or industry multiplier.\n3. Seller Discretionary Earnings (SDE): Similar to EBITDA, often used by small businesses.\n4. Accrual basis financial statements: Essential for accurate analysis.\n5. Price products at a level necessary to turn a profit based on current sales and overhead.",
+    "retrieved_ids_or_titles": [
+      "336601",
+      "76695",
+      "420915",
+      "137044",
+      "6349"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How to account for money earned and spent prior to establishing business bank accounts?",
+    "gold_answer": "",
+    "pred_answer": "Funds earned and spent before opening a dedicated business account should be classified according to their origination. If income was taken personally, it is either a 'distribution' or a 'loan' to you. If expenses were paid personally, they are either a 'contribution of capital' or a 'loan' from you. You can record these transactions as loans to offset them together. Use Journal Entries to record these transactions, debiting your capital/loan account and crediting your income account for income, and debiting the appropriate expense account and crediting your distribution/loan account for expenses.",
+    "retrieved_ids_or_titles": [
+      "73427",
+      "365456",
+      "585793",
+      "64556",
+      "248624"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Do I need a new EIN since I am hiring employees for my LLC?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "366761",
+      "431685",
+      "88124",
+      "377152",
+      "260603"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Privacy preferences on creditworthiness data",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "326129",
+      "410970",
+      "268777",
+      "171761",
+      "417868"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Have plenty of cash flow but bad credit",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "566480",
+      "231688",
+      "396933",
+      "422139",
+      "148271"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "financial institution wants share member break down for single member LLC",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "372909",
+      "540334",
+      "352838",
+      "388713",
+      "330476"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Sole proprietorship or LLC?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "325677",
+      "510701",
+      "213185",
+      "352838",
+      "539133"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What percentage of my company should I have if I only put money?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "255193",
+      "440898",
+      "294150",
+      "480119",
+      "454526"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Where to request ACH Direct DEBIT of funds from MY OWN personal bank account?",
+    "gold_answer": "",
+    "pred_answer": "Call Wells Fargo or go to a branch.",
+    "retrieved_ids_or_titles": [
+      "214024",
+      "300054",
+      "381859",
+      "145789",
+      "432327"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Challenged an apparently bogus credit card charge, what happens now?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "75252",
+      "583321",
+      "531137",
+      "191012",
+      "417868"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Employer options when setting up 401k for employees",
+    "gold_answer": "",
+    "pred_answer": "Employers can consider procuring benefits via a third party administrator to improve their 401k offerings, and they may also explore options for a 401k that does not require them to add a match, which could reduce their liability for administration fees.",
+    "retrieved_ids_or_titles": [
+      "532839",
+      "332605",
+      "220459",
+      "117845",
+      "582191"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Following an investment guru a good idea?",
+    "gold_answer": "",
+    "pred_answer": "Yes, but you should do your due diligence and understand the reasons behind their investments.",
+    "retrieved_ids_or_titles": [
+      "526822",
+      "47812",
+      "85222",
+      "552375",
+      "403501"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Is there a reason to buy a 0% yield bond?",
+    "gold_answer": "",
+    "pred_answer": "Yes, 0% bonds can be desirable for some individuals because they are usually sold well below par value, leading to capital gains, which are taxed at a more favorable rate than income in many countries.",
+    "retrieved_ids_or_titles": [
+      "122581",
+      "570546",
+      "160625",
+      "501838",
+      "313669"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Should a retail trader bother about reading SEC filings",
+    "gold_answer": "",
+    "pred_answer": "No, a retail trader should not bother about reading SEC filings.",
+    "retrieved_ids_or_titles": [
+      "377322",
+      "347802",
+      "169013",
+      "210514",
+      "534059"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Will one’s education loan application be rejected if one doesn't have a payslip providing collateral?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "456440",
+      "510211",
+      "575421",
+      "187155",
+      "473641"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Is there a dollar amount that, when adding Massachusetts Sales Tax, precisely equals $200?",
+    "gold_answer": "",
+    "pred_answer": "$188.24",
+    "retrieved_ids_or_titles": [
+      "261622",
+      "231947",
+      "451443",
+      "318266",
+      "83473"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Is it wise to have plenty of current accounts in different banks?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "244097",
+      "64556",
+      "189303",
+      "30006",
+      "165378"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Accidentally opened a year term CD account, then realized I need the money sooner. What to do?",
+    "gold_answer": "",
+    "pred_answer": "You may have to pay an early withdrawal penalty, which can vary by bank. It's advisable to review the Account Agreement for specific penalty details and consider the potential loss of interest.",
+    "retrieved_ids_or_titles": [
+      "550184",
+      "162668",
+      "411454",
+      "39997",
+      "179756"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Buying from an aggressive salesperson",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "449079",
+      "13139",
+      "339767",
+      "235925",
+      "120279"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Credit and Debit",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "2018",
+      "32522",
+      "563025",
+      "513477",
+      "322259"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Beyond RRSP deductions, how does a high income earner save on taxes?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "454082",
+      "51086",
+      "150347",
+      "441120",
+      "57587"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Online tool to connect to my bank account and tell me what I spend in different categories?",
+    "gold_answer": "",
+    "pred_answer": "MoneyStrands or mint.com.",
+    "retrieved_ids_or_titles": [
+      "140657",
+      "353915",
+      "218793",
+      "357113",
+      "268992"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Receive credit card payment sending my customer details to a credit card processing company?",
+    "gold_answer": "",
+    "pred_answer": "Yes, the seller can collect customer details and send them to a payment gateway for processing.",
+    "retrieved_ids_or_titles": [
+      "48404",
+      "250166",
+      "131177",
+      "350655",
+      "367730"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How to categorize credit card payments?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "357113",
+      "475058",
+      "341473",
+      "317900",
+      "218793"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Prepaid Rent (Accrual Based Accounting)",
+    "gold_answer": "",
+    "pred_answer": "The expense should be recognized on the balance sheet and income statement when it accrues, which occurs when the prepaid rent is extinguished when consumed by the landlord.",
+    "retrieved_ids_or_titles": [
+      "107092",
+      "393883",
+      "501980",
+      "177074",
+      "369463"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What are the ins/outs of writing-off part of one's rent for working at home?",
+    "gold_answer": "",
+    "pred_answer": "You can potentially deduct a fraction of your rent if you use a room or other separately identifiable space within your apartment exclusively for your business. It's important to check the specific rules for home office deductions and maintain a consistent and well-documented approach. However, you cannot simply have your S Corp pay the full rent and claim it as a deduction without proper justification, as this could lead to issues with tax authorities.",
+    "retrieved_ids_or_titles": [
+      "339488",
+      "116934",
+      "177074",
+      "528838",
+      "552356"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "what would you do with $100K saving?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "390556",
+      "451782",
+      "581635",
+      "548758",
+      "501384"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What are “upstream investments” and “downstream investments” in this context?",
+    "gold_answer": "",
+    "pred_answer": "Upstream investments are businesses that supply the original business, while downstream investments are businesses that make use of the original product.",
+    "retrieved_ids_or_titles": [
+      "496225",
+      "295864",
+      "397783",
+      "37909",
+      "408661"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What options are available for a home loan with poor credit but a good rental history?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "361858",
+      "180192",
+      "54513",
+      "112271",
+      "231688"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Paid part of my state refund back last year; now must declare the initial amount as income?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "419768",
+      "33602",
+      "312493",
+      "53496",
+      "88645"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Taxes due for hobbyist Group Buy",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "22353",
+      "313361",
+      "95441",
+      "330",
+      "212312"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Will the ex-homeowner still owe money after a foreclosure?",
+    "gold_answer": "",
+    "pred_answer": "Yes.",
+    "retrieved_ids_or_titles": [
+      "2996",
+      "159936",
+      "366448",
+      "187739",
+      "253319"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Can saving/investing 15% of your income starting age 25, likely make you a millionaire?",
+    "gold_answer": "",
+    "pred_answer": "Yes.",
+    "retrieved_ids_or_titles": [
+      "124027",
+      "396127",
+      "521026",
+      "152478",
+      "467044"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Can I open a bank account in the US remotely? Will I pay taxes for the money on it?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "30596",
+      "75568",
+      "17378",
+      "231727",
+      "549773"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Income Tax and Investments",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "436701",
+      "384644",
+      "465313",
+      "477940",
+      "548758"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Accounting for reimbursements that exceed actual expenses",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "30316",
+      "557186",
+      "176627",
+      "150650",
+      "423163"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Dalbar: How can the average investor lose money?",
+    "gold_answer": "",
+    "pred_answer": "The average investor can lose money by not having a plan or not sticking to the plan, often selling out of panic or fear instead of remaining disciplined.",
+    "retrieved_ids_or_titles": [
+      "431735",
+      "245702",
+      "170628",
+      "370290",
+      "222639"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What will my taxes be as self employed?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "450808",
+      "302049",
+      "588253",
+      "260795",
+      "147080"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Is it bad practice to invest in stocks that fluctuate by single points throughout the day?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "514780",
+      "220665",
+      "364642",
+      "251536",
+      "212628"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Any reason to keep around my account with my old, 'big' bank?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "244097",
+      "555183",
+      "535817",
+      "41807",
+      "18749"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Why use accounting software like Quickbooks instead of Excel spreadsheets?",
+    "gold_answer": "",
+    "pred_answer": "Using accounting software like QuickBooks allows you to focus on your core business activities, such as landscaping, rather than spending time managing spreadsheets and developing your own accounting system. It is designed by developers who understand accounting, guiding you through the process and helping you avoid costly mistakes. Additionally, many accountants are familiar with such software, making it easier for them to assist you effectively.",
+    "retrieved_ids_or_titles": [
+      "30142",
+      "472924",
+      "566337",
+      "512680",
+      "540199"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Capital improvement and depreciation in restaurant LLC",
+    "gold_answer": "",
+    "pred_answer": "You can capitalize expenses related to start-up and organizational costs, as well as capital asset purchases like equipment, which should be depreciated separately. For a restaurant LLC, expenses such as filing paperwork for permits are start-up expenses, while purchases like commercial ovens and furniture are capital assets that can be depreciated over time.",
+    "retrieved_ids_or_titles": [
+      "366830",
+      "331981",
+      "517836",
+      "216077",
+      "187227"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How long do credit cards keep working after you disappear?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "229354",
+      "191012",
+      "251643",
+      "352927",
+      "588719"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "California tells me I didn't file documents for an LLC that isn't mine. What do I do?",
+    "gold_answer": "",
+    "pred_answer": "You should go online to the California Secretary of State's website and look up everything filed by the LLC with the state. This will show who the founders were and other public records. Obtain the registered agent's name and address for the LLC, then contact them to ask why your address is listed as the LLC's business address. After gathering this information, contact the Secretary of State to inform them that it isn't you, so they can correct the matter.",
+    "retrieved_ids_or_titles": [
+      "416268",
+      "366761",
+      "361415",
+      "593270",
+      "540334"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How do I set up Quickbooks for a small property rental company that holds its properties in separate LLC's?",
+    "gold_answer": "",
+    "pred_answer": "You need one \"company file\" for each LLC that you want to track through QuickBooks. Consider whether the limitations on liability balance against the costs of managing multiple company files, and think ahead to tax filing and insurance policies for each LLC.",
+    "retrieved_ids_or_titles": [
+      "415514",
+      "24890",
+      "543254",
+      "107092",
+      "418884"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How can I determine if a FHA loan refinance offer is from a reputable lender",
+    "gold_answer": "",
+    "pred_answer": "You can check if an unknown lender is reputable by looking at a list of lenders on HUD's site, checking the Better Business Bureau (BBB), and doing general Google searches. Additionally, you should compare prevailing rates for your current situation by getting quotes from your preferred bank or online sites.",
+    "retrieved_ids_or_titles": [
+      "349866",
+      "30322",
+      "181657",
+      "305179",
+      "367944"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Freelancer: Should I start a second bank account?",
+    "gold_answer": "",
+    "pred_answer": "Yes, you should.",
+    "retrieved_ids_or_titles": [
+      "64556",
+      "367754",
+      "244097",
+      "189303",
+      "296717"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Is freelance income earned by a U.S. citizen while living abroad subject to state income tax?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "185384",
+      "332314",
+      "264068",
+      "110061",
+      "303287"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How to correct a tax return filed electronically and already approved?",
+    "gold_answer": "",
+    "pred_answer": "Simply file an amended return to correct the mistake.",
+    "retrieved_ids_or_titles": [
+      "392434",
+      "485822",
+      "53496",
+      "88645",
+      "398091"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Paid by an American company but working from France: where should I pay taxes?",
+    "gold_answer": "",
+    "pred_answer": "You will owe US income tax on it, and depending on your residency, you may also owe taxes in France.",
+    "retrieved_ids_or_titles": [
+      "352052",
+      "26182",
+      "185384",
+      "332314",
+      "237262"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How can I withdraw money from my LLC?",
+    "gold_answer": "",
+    "pred_answer": "You can withdraw money from your LLC by writing yourself a check from the business account or moving money between your personal and business accounts, as long as the operating agreement explicitly empowers you to do that.",
+    "retrieved_ids_or_titles": [
+      "591357",
+      "540334",
+      "446870",
+      "141642",
+      "388713"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Where should I invest my savings?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "451782",
+      "581635",
+      "501384",
+      "538673",
+      "192912"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How common is “pass-through” health insurance?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "443960",
+      "224406",
+      "128533",
+      "82543",
+      "98502"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How do disputed debts work on credit reports?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "417868",
+      "268777",
+      "49321",
+      "393710",
+      "401125"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Need a formula to determine monthly payments received at time t if I'm reinvesting my returns",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "550642",
+      "203091",
+      "26846",
+      "518896",
+      "402466"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How are the best way to make and save money at 22 years old",
+    "gold_answer": "",
+    "pred_answer": "The best way to make and save money at 22 years old is to save as much as you can to invest for the long run, take risks in your investments, keep investment costs low, and focus on investing in your human capital through education or professional training.",
+    "retrieved_ids_or_titles": [
+      "529444",
+      "10476",
+      "152478",
+      "99987",
+      "235098"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Personal taxes for Shopify / Paypal shop?",
+    "gold_answer": "",
+    "pred_answer": "You will need to generate your own paperwork, document each transaction, and fill out business tax forms, including a schedule C to show revenues and expenses. The money you receive is considered taxable income.",
+    "retrieved_ids_or_titles": [
+      "405777",
+      "44256",
+      "569993",
+      "318266",
+      "94915"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "what is the best way to do a freelancing job over the summer for a student",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "484663",
+      "594182",
+      "257051",
+      "384532",
+      "179066"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What are the consequences of IRS “reclassification” on both employer and employee?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "56718",
+      "443188",
+      "466625",
+      "582955",
+      "226549"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How does Walmart account their expired food",
+    "gold_answer": "",
+    "pred_answer": "Walmart tracks expired food items by scanning them into the computer when they have to dispose of them.",
+    "retrieved_ids_or_titles": [
+      "276127",
+      "191649",
+      "557571",
+      "417541",
+      "585820"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How FTB and IRS find mistakes in amended tax returns? Are their processes reliable?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "361415",
+      "485822",
+      "392434",
+      "53496",
+      "258962"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Tax consequences when foreign currency changes in value",
+    "gold_answer": "",
+    "pred_answer": "If you buy foreign currency as an investment, the gains are considered ordinary income and are realized when you close the position. Changes in foreign exchange between a transaction and the conversion of the proceeds to USD are generally not considered taxable income or loss.",
+    "retrieved_ids_or_titles": [
+      "83473",
+      "342411",
+      "146327",
+      "459096",
+      "117010"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Why aren't there solutions for electronic itemized receipt for retail in-store purchases?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "276127",
+      "171761",
+      "146021",
+      "375372",
+      "529407"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "I made an investment with a company that contacted me, was it safe?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "167684",
+      "385881",
+      "468144",
+      "594206",
+      "204541"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Why does FlagStar Bank harass you about payments within grace period?",
+    "gold_answer": "",
+    "pred_answer": "FlagStar Bank harasses you about payments within the grace period because they have an internal policy of making robo-calls on the 5th of every month for anyone who hasn't paid their mortgage yet, likely as a business decision to remind people to pay up.",
+    "retrieved_ids_or_titles": [
+      "471630",
+      "438869",
+      "560000",
+      "322714",
+      "91778"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Is is possible to take a mortgage using Bitcoin as collateral?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "366448",
+      "277500",
+      "95869",
+      "473641",
+      "11572"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Are social media accounts (e.g. YouTube, Twitter, Instagram, etc.) considered assets?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "452743",
+      "517726",
+      "286606",
+      "294540",
+      "393550"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Is this follow-up after a car crash a potential scam?",
+    "gold_answer": "",
+    "pred_answer": "Yes, it's a scam.",
+    "retrieved_ids_or_titles": [
+      "114231",
+      "98356",
+      "68842",
+      "204735",
+      "65418"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How is taxation for youtube/twitch etc monetization handled in the UK?",
+    "gold_answer": "",
+    "pred_answer": "In the UK, if you monetize content on platforms like YouTube or Twitch, you must register as self-employed or create a company. You will pay tax on profit, not income, and can offset expenses against your income. If your total income does not exceed the personal allowance, you may not have to pay income tax. Accurate record-keeping of income and expenses is essential, and you may need to file tax returns.",
+    "retrieved_ids_or_titles": [
+      "440745",
+      "245753",
+      "544995",
+      "232063",
+      "377547"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Which is better when working as a contractor, 1099 or incorporating?",
+    "gold_answer": "",
+    "pred_answer": "Incorporating is better when working as a contractor.",
+    "retrieved_ids_or_titles": [
+      "220022",
+      "31793",
+      "234436",
+      "532932",
+      "586026"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "I am not VAT registered. Do I need to buy from my supplier with excl VAT prices or incl VAT?",
+    "gold_answer": "",
+    "pred_answer": "You need to buy from your supplier with incl VAT prices.",
+    "retrieved_ids_or_titles": [
+      "387165",
+      "393953",
+      "306144",
+      "500903",
+      "591940"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "US resident with Canadian income via T4A-NR",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "254514",
+      "111531",
+      "318388",
+      "318260",
+      "452350"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What's the difference between Market Cap and NAV?",
+    "gold_answer": "",
+    "pred_answer": "Market Cap is the share price multiplied by the number of shares, reflecting what people think the company is worth and includes future expectations. NAV is the total value of a company's assets minus liabilities, divided by the number of shares, representing the liquidation value of the company.",
+    "retrieved_ids_or_titles": [
+      "471123",
+      "178",
+      "414940",
+      "416727",
+      "247021"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How do you find an ethical, honest independent insurance broker in Canada?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "538005",
+      "157702",
+      "271766",
+      "200468",
+      "582429"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Why do some companies report how well their EBITDA performed even if their overall net profit did equally well?",
+    "gold_answer": "",
+    "pred_answer": "Some companies report how well their EBITDA performed even if their overall net profit did equally well because EBITDA will always be higher than net income, making the company look better from a \"big number = good\" perspective.",
+    "retrieved_ids_or_titles": [
+      "444589",
+      "296006",
+      "552281",
+      "4269",
+      "407372"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What is the proper way to report additional income for taxes (specifically, Android development)?",
+    "gold_answer": "",
+    "pred_answer": "You would report it as business income on Schedule C. If it is truly hobby income, report the income on Line 21 (\"other income\") of form 1040.",
+    "retrieved_ids_or_titles": [
+      "95441",
+      "219425",
+      "28764",
+      "313361",
+      "347590"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Investing in hemp producers in advance of possible legalization in Canada?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "393898",
+      "493792",
+      "110516",
+      "170861",
+      "582429"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "W2 vs 1099 Employee status",
+    "gold_answer": "",
+    "pred_answer": "W2 employees have taxes withheld by their employer and may receive benefits, while 1099 contractors are responsible for paying their own taxes and do not receive benefits.",
+    "retrieved_ids_or_titles": [
+      "394871",
+      "586026",
+      "68524",
+      "77245",
+      "487791"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How can people have such high credit card debts?",
+    "gold_answer": "",
+    "pred_answer": "People can have high credit card debts due to a lack of discipline in managing their finances, the convenience and temptation of credit cards, prioritizing other bill payments over credit card payments, and the cultural acceptance of \"buy now pay later\" practices.",
+    "retrieved_ids_or_titles": [
+      "562896",
+      "2460",
+      "399406",
+      "364445",
+      "277590"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How high should I set my KickStarter funding goal in order to have $35,000 left over?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "18001",
+      "528564",
+      "464843",
+      "592680",
+      "557396"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Freelancing Tax implication",
+    "gold_answer": "",
+    "pred_answer": "As a freelancer, if your side-business revenue is reported on a 1099, you are considered a business owner and must fill out Schedule C. You owe taxes on your profit after subtracting legitimate business expenses, and you are responsible for self-employment tax. Income not reported on a 1099 should be reported as hobby income.",
+    "retrieved_ids_or_titles": [
+      "588253",
+      "272820",
+      "599835",
+      "147080",
+      "302049"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "splitting a joint mortgage - one owner in home",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "219274",
+      "214071",
+      "547533",
+      "111454",
+      "217067"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Rules for SEP contributions in an LLC?",
+    "gold_answer": "",
+    "pred_answer": "You may contribute up to 25% of compensation (20% if you’re self-employed) or $49,000 for 2011 and $50,000 for 2012, whichever is less.",
+    "retrieved_ids_or_titles": [
+      "446928",
+      "363591",
+      "446870",
+      "372909",
+      "260603"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Found an old un-cashed paycheck. How long is it good for? What to do if it's expired?",
+    "gold_answer": "",
+    "pred_answer": "In the US, a check is typically good for 180 days, but some banks may have different policies. If it has expired, you should call the payroll department for your old job to stop payment on the old check and request a new one.",
+    "retrieved_ids_or_titles": [
+      "250285",
+      "302209",
+      "5856",
+      "220691",
+      "566392"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Is there a way to open a U.S. bank account for my LLC remotely?",
+    "gold_answer": "",
+    "pred_answer": "Yes, it is possible to open a U.S. bank account for your LLC remotely, as Alliant Credit Union offers completely online signup.",
+    "retrieved_ids_or_titles": [
+      "372909",
+      "508754",
+      "244808",
+      "64556",
+      "547301"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Is the contribution towards Employment Insurance (EI) wasted if I never get fired, or are my premiums refunded?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "401731",
+      "583788",
+      "307120",
+      "8057",
+      "185333"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Warren Buffett and Charles Munger advice for small investors?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "410166",
+      "253374",
+      "133487",
+      "520677",
+      "590276"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Is there any US bank that does not charge for incoming wire transfers?",
+    "gold_answer": "",
+    "pred_answer": "Yes, there are banks and credit unions in the US that do not charge for incoming wire transfers.",
+    "retrieved_ids_or_titles": [
+      "244185",
+      "175524",
+      "444162",
+      "327623",
+      "120760"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "As a Sole Proprietor, will “employer” Solo 401k contributions count towards gross income?",
+    "gold_answer": "",
+    "pred_answer": "No, employer Solo 401k contributions will not count towards gross income for a Sole Proprietor.",
+    "retrieved_ids_or_titles": [
+      "191993",
+      "178697",
+      "582191",
+      "213185",
+      "436071"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Reporting financial gains from my online store",
+    "gold_answer": "",
+    "pred_answer": "You will report everything on your Schedule C, including your gross profits, which will flow to Net Profit and then to your 1040 for the final tax calculation. It's recommended to keep good records of your revenue and expenditures, and hiring a CPA can help navigate the tax implications.",
+    "retrieved_ids_or_titles": [
+      "146021",
+      "317900",
+      "405777",
+      "243503",
+      "272425"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Should I pay a company who failed to collect VAT from me over 6 months ago?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "433801",
+      "393953",
+      "387165",
+      "472824",
+      "500903"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Clarification on student expenses - To file the tax for the next year",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "269943",
+      "119117",
+      "202632",
+      "481459",
+      "321619"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "UK sole trader who often buys products/services on behalf of clients – do I deduct from declared income or claim as allowable expenses?",
+    "gold_answer": "",
+    "pred_answer": "You will deduct them from your earnings as the cost of doing your business.",
+    "retrieved_ids_or_titles": [
+      "183612",
+      "116934",
+      "517836",
+      "472824",
+      "401297"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Which colors can one use to fill out a check in the US?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "467509",
+      "362215",
+      "110848",
+      "89326",
+      "252978"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Does the IRS reprieve those who have to commute for work?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "51491",
+      "434846",
+      "565157",
+      "544381",
+      "552356"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Paypal website donations without being a charity",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "233877",
+      "174034",
+      "44256",
+      "445339",
+      "189120"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Where to find the 5 or 10 year returns for a mutual fund?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "558042",
+      "154450",
+      "346345",
+      "153178",
+      "155254"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Advantage of credit union or local community bank over larger nationwide banks such as BOA, Chase, etc.?",
+    "gold_answer": "",
+    "pred_answer": "Credit unions and local community banks are generally less likely to impose high fees, are not driven by shareholder demands, and often provide a more personalized banking experience. They may also offer reimbursement for ATM fees and have a stronger connection to the local community.",
+    "retrieved_ids_or_titles": [
+      "550303",
+      "18749",
+      "30253",
+      "65659",
+      "532804"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Are stories of turning a few thousands into millions by trading stocks real?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "519619",
+      "523393",
+      "44417",
+      "540462",
+      "481522"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Can vet / veterinary bills be considered deductions (tax-deductible) for Income Tax purposes [Canada]?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "278824",
+      "184646",
+      "401551",
+      "260651",
+      "527776"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How would I go about selling the stock of a privately held company?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "581127",
+      "140835",
+      "293687",
+      "54341",
+      "55999"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Can I pay taxes using bill pay from my on-line checking account?",
+    "gold_answer": "",
+    "pred_answer": "Yes.",
+    "retrieved_ids_or_titles": [
+      "349321",
+      "525200",
+      "309171",
+      "174384",
+      "155389"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What happened in Argentina in 2001 bank sector? did the banks closed? all or some?",
+    "gold_answer": "",
+    "pred_answer": "Some banks closed, and the government prevented people from withdrawing their money.",
+    "retrieved_ids_or_titles": [
+      "1982",
+      "304007",
+      "372308",
+      "411061",
+      "198895"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What tax software automatically determines the best filing status, etc?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "592309",
+      "287398",
+      "258962",
+      "185681",
+      "557861"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What are the risks & rewards of being a self-employed independent contractor / consultant vs. being a permanent employee?",
+    "gold_answer": "",
+    "pred_answer": "Risks of being a self-employed independent contractor/consultant include the potential for not getting paid, especially for short-term gigs, and the lack of legal protections for receiving pay. Rewards may include flexibility and freedom in work. In contrast, being a permanent employee offers more stability, legal protections for pay, and benefits, but may involve sacrificing some freedom.",
+    "retrieved_ids_or_titles": [
+      "176777",
+      "281612",
+      "397329",
+      "56718",
+      "376631"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Why are there many small banks and more banks in the U.S.?",
+    "gold_answer": "",
+    "pred_answer": "There are many small banks and more banks in the U.S. due to factors like population density, service expectations, capitalism promoting competition, and the need for local banking options that cater to community needs.",
+    "retrieved_ids_or_titles": [
+      "18749",
+      "498146",
+      "550303",
+      "24344",
+      "24994"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What's an economic explanation for why greeting cards are so expensive?",
+    "gold_answer": "",
+    "pred_answer": "Greeting cards are expensive because the price is set just below the point where demand sharply decreases, maximizing profit. Additionally, they are marketed as sentimental items, leading consumers to feel compelled to pay higher prices. The costs associated with retail, marketing, and distribution also contribute to their high prices.",
+    "retrieved_ids_or_titles": [
+      "374030",
+      "424523",
+      "4066",
+      "50809",
+      "271514"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Personal Tax Return software for Linux?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "534454",
+      "592309",
+      "287398",
+      "412819",
+      "218067"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How does a bank make money on an interest free secured loan?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "400009",
+      "94230",
+      "396853",
+      "580852",
+      "257495"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "To whom should I report fraud on both of my credit cards?",
+    "gold_answer": "",
+    "pred_answer": "You should report fraud to the respective banks that issued your credit cards.",
+    "retrieved_ids_or_titles": [
+      "581889",
+      "531137",
+      "75252",
+      "250166",
+      "364269"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What exchange rate does El Al use when converting final payment amount to shekels?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "482343",
+      "348955",
+      "114886",
+      "501157",
+      "126565"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "F1 student and eBay selling tax",
+    "gold_answer": "",
+    "pred_answer": "If you are an F1 student selling on eBay, you need to be authorized to work in the U.S. and may be required to pay taxes on that income, as it is not considered passive income.",
+    "retrieved_ids_or_titles": [
+      "428533",
+      "343477",
+      "245011",
+      "22353",
+      "318266"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How can I determine if a debt consolidation offer is real or a scam?",
+    "gold_answer": "",
+    "pred_answer": "Research well: check online reviews, BBB ratings and reviews, and the time in business. If you can't find any information, don't deal with them. Be cautious of promises that debtors will reduce the debt significantly, as this is a sign of a scam.",
+    "retrieved_ids_or_titles": [
+      "478514",
+      "178127",
+      "367944",
+      "430911",
+      "370334"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How do you determine “excess cash” for Enterprise Value calculations from a balance sheet?",
+    "gold_answer": "",
+    "pred_answer": "Excess Cash = Current Assets - Current Liabilities + Cash & Equivalents.",
+    "retrieved_ids_or_titles": [
+      "228403",
+      "150650",
+      "446652",
+      "2304",
+      "241308"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Why can't you just have someone invest for you and split the profits (and losses) with him?",
+    "gold_answer": "",
+    "pred_answer": "Because financial institutions have more capital than any individual retail investor, and anyone with sufficient skill to invest will quickly accumulate enough capital to negotiate a less risky payment plan.",
+    "retrieved_ids_or_titles": [
+      "309851",
+      "233187",
+      "385881",
+      "447619",
+      "281667"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Why do gas stations charge different amounts in the same local area?",
+    "gold_answer": "",
+    "pred_answer": "Gas stations charge different amounts in the same local area due to factors such as zone pricing, competition, location, traffic volume, nearby household incomes, and the cost of delivery from suppliers.",
+    "retrieved_ids_or_titles": [
+      "114417",
+      "91545",
+      "324411",
+      "64263",
+      "549833"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Should I Purchase Health Insurance Through My S-Corp",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "17215",
+      "98112",
+      "589398",
+      "224406",
+      "544869"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Tax: 1099 paper form",
+    "gold_answer": "",
+    "pred_answer": "You can print them on any IRS-approved paper, you don't have to use pre-printed forms.",
+    "retrieved_ids_or_titles": [
+      "435835",
+      "277812",
+      "31793",
+      "105046",
+      "258962"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "As director, can I invoice my self-owned company?",
+    "gold_answer": "",
+    "pred_answer": "Yes, but it depends on the circumstances and the contracts in place.",
+    "retrieved_ids_or_titles": [
+      "373059",
+      "572690",
+      "142645",
+      "545270",
+      "496064"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Do financial advisors get better deals on mortgages?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "104988",
+      "81906",
+      "360264",
+      "291621",
+      "526822"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Freelance site with lowest commission fees?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "179066",
+      "236507",
+      "29009",
+      "348901",
+      "507701"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Frustrated Landlord",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "85229",
+      "118730",
+      "149721",
+      "393883",
+      "490443"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Where do web sites get foreign exchange currency rate / quote information?",
+    "gold_answer": "",
+    "pred_answer": "Websites usually get their data either from EBS and Reuters directly or from a data provider that in turn gets it from EBS, Reuters, or another data source like Bloomberg or Haver Analytics.",
+    "retrieved_ids_or_titles": [
+      "343489",
+      "144181",
+      "114886",
+      "517345",
+      "156816"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Will I be paid dividends if I own shares?",
+    "gold_answer": "",
+    "pred_answer": "Yes, as long as you own the shares before the ex-dividend date you will get the dividends.",
+    "retrieved_ids_or_titles": [
+      "1198",
+      "451301",
+      "20076",
+      "549528",
+      "189142"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How long to wait after getting a mortgage to increase my credit limit?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "294327",
+      "596272",
+      "344203",
+      "512544",
+      "497599"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Why should a company go public?",
+    "gold_answer": "",
+    "pred_answer": "To raise money, invest in the business, and/or pay off existing shareholders.",
+    "retrieved_ids_or_titles": [
+      "105129",
+      "471247",
+      "162612",
+      "5685",
+      "243396"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "At what age should I start or stop saving money?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "396127",
+      "551954",
+      "81106",
+      "305946",
+      "152478"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What are some way to transfer money from Hong Kong to India on a monthly basis?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "217216",
+      "510485",
+      "224688",
+      "321612",
+      "305579"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How do I notify the IRS of a new member to an LLC?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "431685",
+      "366761",
+      "352838",
+      "540334",
+      "593270"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What are the consequences of not respecting a notice period when leaving a job?",
+    "gold_answer": "",
+    "pred_answer": "If you violate your notice requirement, the employer can sue you for lost revenues and other related losses for that time period. Conversely, if your employer fails to provide you with sufficient notice, you could sue for lost wages for that time frame.",
+    "retrieved_ids_or_titles": [
+      "549180",
+      "584337",
+      "530037",
+      "67767",
+      "438883"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Can capital expenses for volunteer purposes be deducted from income?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "398536",
+      "310612",
+      "390089",
+      "565157",
+      "576740"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How do I deal with a mistaken attempt to collect a debt from me that is owed by someone else?",
+    "gold_answer": "",
+    "pred_answer": "You should request verification in writing of the debt, as they are required to provide this by law. Keep this for your records and send them a notice by certified mail stating that this is not your debt and not to contact you again. Indicate that you will take legal action if they continue to try and collect. Keep a log of any continued calls or harassment, and contact counsel about your rights under the fair debt collection laws. If your identity is stolen, you are not legally responsible for the charges.",
+    "retrieved_ids_or_titles": [
+      "144922",
+      "180601",
+      "401125",
+      "112711",
+      "49321"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Is working on a W2 basis, with benefits paid to me, a good idea?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "487791",
+      "68524",
+      "50260",
+      "94332",
+      "394871"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How do I calculate tax liability on the turnover of a small vendor?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "388713",
+      "599876",
+      "588253",
+      "338700",
+      "182989"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How does revenue shared with someone else go into my tax return in Canada?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "82344",
+      "527318",
+      "452350",
+      "527776",
+      "441120"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Which banks have cash-deposit machines in Germany?",
+    "gold_answer": "",
+    "pred_answer": "HypoVereinsbank, savings banks (\"Sparkasse\"), and VR Banks.",
+    "retrieved_ids_or_titles": [
+      "505678",
+      "446340",
+      "252978",
+      "144561",
+      "40338"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How to graph the market year over year? for example Dow Jones Index",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "58451",
+      "386162",
+      "507610",
+      "476260",
+      "370507"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How to find cheaper alternatives to a traditional home telephone line?",
+    "gold_answer": "",
+    "pred_answer": "Consider using VOIP service providers or web-enabled conference calling services, evaluate your calling patterns to determine if a pay-per-minute or flat-rate service is more suitable, and explore options like prepaid VOIP companies or bring your own device (BYOD) systems. Additionally, check for discounts through associations or local phone companies that may offer bare minimum service.",
+    "retrieved_ids_or_titles": [
+      "143100",
+      "450742",
+      "413832",
+      "523506",
+      "348897"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How to pay with cash when car shopping?",
+    "gold_answer": "",
+    "pred_answer": "You can pay with a cashier's check or personal check, or combine payment methods. You may also pay a deposit (likely around $500) and then return with a cashier's check later. If you give the dealership $10,000 or more in actual cash, they will be required to fill out a form 8300 with the IRS.",
+    "retrieved_ids_or_titles": [
+      "346042",
+      "590082",
+      "139047",
+      "108739",
+      "262028"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What to do when a job offer is made but with a salary less than what was asked for?",
+    "gold_answer": "",
+    "pred_answer": "If the salary offered is less than what you asked for, you could test the possibility of negotiation by declining the offer and stating that the salary is the only sticking point, but only if you are willing to walk away from the offer as it stands. Alternatively, you can make peace with the amount you settle on or move on.",
+    "retrieved_ids_or_titles": [
+      "524471",
+      "184674",
+      "432808",
+      "468937",
+      "197052"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Stock market vs. baseball card trading analogy",
+    "gold_answer": "",
+    "pred_answer": "The analogy falls apart because baseball cards don't pay dividends, while many profitable companies do, and the value of shares in a company is determined by factors beyond just the company's assets, unlike the straightforward trading of baseball cards.",
+    "retrieved_ids_or_titles": [
+      "344118",
+      "301866",
+      "529844",
+      "50809",
+      "523393"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Typically how many digits are in a cheque number?",
+    "gold_answer": "",
+    "pred_answer": "Typically four digits.",
+    "retrieved_ids_or_titles": [
+      "89326",
+      "212713",
+      "220691",
+      "143677",
+      "482503"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How can I detect potential fraud in a company before investing in them?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "468144",
+      "43961",
+      "450577",
+      "538005",
+      "534059"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Are non-residents or foreigners permitted to buy or own shares of UK companies?",
+    "gold_answer": "",
+    "pred_answer": "Yes, it is legal for non-residents or foreigners to buy or own shares of UK companies.",
+    "retrieved_ids_or_titles": [
+      "296528",
+      "158923",
+      "307776",
+      "209493",
+      "54341"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Am I “cheating the system” by opening up a tiny account with a credit union and then immediately applying for a huge loan?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "147343",
+      "231614",
+      "145789",
+      "528132",
+      "449630"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Is it possible for US retail forex traders to trade exotic currencies?",
+    "gold_answer": "",
+    "pred_answer": "Yes, it is possible for US retail forex traders to trade exotic currencies.",
+    "retrieved_ids_or_titles": [
+      "376126",
+      "311834",
+      "430692",
+      "543714",
+      "190756"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How does unemployment insurance work?",
+    "gold_answer": "",
+    "pred_answer": "Unemployment insurance provides a temporary safety net to workers who lose their jobs by replacing a portion of their salary for certain periods. Each state administers its own unemployment insurance program, and to receive benefits, you must have lost your job through no fault of your own. After applying, the state verifies your layoff with your previous employer. Your weekly payment is calculated as a percentage of your previous salary, generally between 20 percent and 50 percent, and is intended to cover essential living expenses. There is typically a waiting period of one or two weeks before benefits begin, and if you find a new job during this period, you will not be eligible for benefits. Employers fund unemployment insurance through payroll taxes, and benefits are usually paid for a maximum of 26 weeks, with additional weeks available during high unemployment periods.",
+    "retrieved_ids_or_titles": [
+      "94332",
+      "307120",
+      "583788",
+      "271546",
+      "79903"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Tax question about selling a car",
+    "gold_answer": "",
+    "pred_answer": "Losses from the sale of personal-use automobiles are not deductible as capital losses. If you sell the car at the same price you bought it, no tax is payable.",
+    "retrieved_ids_or_titles": [
+      "55666",
+      "108739",
+      "40257",
+      "491537",
+      "244061"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What ways are there for us to earn a little extra side money?",
+    "gold_answer": "",
+    "pred_answer": "- Delivering pizza on weekends\n- Finding a roommate to share housing costs\n- Doing small freelance programming jobs\n- Exploring various business opportunities online",
+    "retrieved_ids_or_titles": [
+      "109880",
+      "428474",
+      "408322",
+      "594182",
+      "257163"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Buy a parking spot and rent it out, or invest savings in an interest-bearing account?",
+    "gold_answer": "",
+    "pred_answer": "Buy a parking spot and rent it out.",
+    "retrieved_ids_or_titles": [
+      "305904",
+      "77228",
+      "475192",
+      "422739",
+      "538023"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Physical Checks - Mailing",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "6503",
+      "29372",
+      "362215",
+      "467509",
+      "135196"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How do you determine the dividend payout date for Mutual Funds?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "491472",
+      "155254",
+      "32172",
+      "549528",
+      "99803"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What to do with an old building to get money",
+    "gold_answer": "",
+    "pred_answer": "You could sell it, rent it (if repairs are made), apply for a permit to zone it for commercial use, or take out a mortgage on the building.",
+    "retrieved_ids_or_titles": [
+      "426678",
+      "228289",
+      "148335",
+      "555767",
+      "95869"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What evidence do I need to declare tutoring income on my income tax?",
+    "gold_answer": "",
+    "pred_answer": "You should keep records of dates, times, names, and track where the money went, treating it as a real business.",
+    "retrieved_ids_or_titles": [
+      "540571",
+      "287398",
+      "251649",
+      "495321",
+      "592309"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Is it possible to create a self-managed superannuation fund to act as a mortage offset? (Australia)",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "587192",
+      "207285",
+      "15631",
+      "10082",
+      "242654"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Should I pay more than 20% down on a home?",
+    "gold_answer": "",
+    "pred_answer": "I would recommend against paying more than 20%, because having liquidity for emergency funds, or other investments will give you the sort of flexibility that's good to have when the economy isn't so great.",
+    "retrieved_ids_or_titles": [
+      "472484",
+      "512544",
+      "4612",
+      "447580",
+      "231688"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "If I deposit money as cash does it count as direct deposit?",
+    "gold_answer": "",
+    "pred_answer": "No, depositing cash directly into your account does not count as the requirement for one Direct Deposit within 90 days.",
+    "retrieved_ids_or_titles": [
+      "398856",
+      "199508",
+      "451497",
+      "505678",
+      "475541"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How can I cash out a check internationally?",
+    "gold_answer": "",
+    "pred_answer": "You can cash US checks in almost any decent bank anywhere in the world, but it may cost you some and will probably take 2-3 weeks. If you are in another country, you can sign the check for deposit only with a deposit slip and send it to your out-of-country bank by FedEx for faster processing.",
+    "retrieved_ids_or_titles": [
+      "110848",
+      "231727",
+      "342212",
+      "213331",
+      "15604"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "I have around 60K $. Thinking about investing in Oil, how to proceed?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "501384",
+      "233732",
+      "65006",
+      "290887",
+      "233223"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Can I transfer my investment property into a SMSF?",
+    "gold_answer": "",
+    "pred_answer": "No, you cannot transfer residential property into your SMSF from a related party.",
+    "retrieved_ids_or_titles": [
+      "533791",
+      "207285",
+      "587192",
+      "306430",
+      "233187"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Merits of buying apartment houses and renting them",
+    "gold_answer": "",
+    "pred_answer": "The merits of buying apartment houses and renting them include turning a liability into an income-generating asset, gaining equity, and having fixed expenses (with the exception of property taxes/condo fees). Additionally, a good tenant may keep the property in better shape, and renting can provide a steady income stream. However, it requires time and effort to manage tenants and handle repairs.",
+    "retrieved_ids_or_titles": [
+      "547033",
+      "255414",
+      "451849",
+      "62694",
+      "118730"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "May I claim money earned but not received in 2012",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "31117",
+      "589505",
+      "251649",
+      "327826",
+      "393710"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Where should a young student put their money?",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "138283",
+      "258704",
+      "311568",
+      "509608",
+      "328295"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How should I file my taxes as a contractor?",
+    "gold_answer": "",
+    "pred_answer": "You should fill out Schedule C to report your business income and expenses, and you will also need to report all income received on Form 1099-MISC. It's advisable to keep detailed records of all deductible expenses and consider consulting a tax expert for guidance.",
+    "retrieved_ids_or_titles": [
+      "588253",
+      "593694",
+      "527776",
+      "302049",
+      "277812"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Should I give to charity by check or credit card?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "161667",
+      "264271",
+      "46381",
+      "82744",
+      "390089"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Unmarried Couple Splitting up with Joint Ownership of Home",
+    "gold_answer": "",
+    "pred_answer": "If you can't come to an agreement, then you'll end up in court, a judge will split up the assets, and the only winners there are the lawyers.",
+    "retrieved_ids_or_titles": [
+      "214071",
+      "494832",
+      "95116",
+      "219274",
+      "256890"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Should I prioritize retirement savings inside of my HSA?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "388646",
+      "8020",
+      "242124",
+      "67135",
+      "298563"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Work on the side for my wife's company",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "569145",
+      "140067",
+      "303293",
+      "423074",
+      "384532"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Strategies for putting away money for a child's future (college, etc.)?",
+    "gold_answer": "",
+    "pred_answer": "1. Save as much as possible before starting and continue to save as you go.\n2. Save a year's worth of tuition or more to pay as your child attends classes.\n3. Encourage your child to hold down a part-time job to contribute to savings.\n4. Consider using 529 plans for tax benefits, but be aware of penalties if the child doesn't go to college.\n5. Explore state-specific prepaid tuition plans for predictable returns.\n6. Use ESAs for more investment options, despite lower contribution limits.\n7. Consider traditional and ROTH IRA accounts for flexibility, but prioritize retirement savings first.\n8. Save in a regular brokerage account for more flexibility, especially regarding financial aid.\n9. Teach your children financial independence and encourage them to start their own businesses.",
+    "retrieved_ids_or_titles": [
+      "258704",
+      "403137",
+      "31377",
+      "127838",
+      "512096"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What are my chances at getting a mortgage with Terrible credit but High income",
+    "gold_answer": "",
+    "pred_answer": "insufficient information",
+    "retrieved_ids_or_titles": [
+      "231688",
+      "180214",
+      "300660",
+      "407401",
+      "2064"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "What investments are positively related to the housing market decline?",
+    "gold_answer": "",
+    "pred_answer": "Gold and discount retailers.",
+    "retrieved_ids_or_titles": [
+      "273282",
+      "186031",
+      "389179",
+      "429023",
+      "419809"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Tax consequences of changing state residency?",
+    "gold_answer": "",
+    "pred_answer": "Changing state residency can have significant tax consequences, as income earned before establishing residency in a new state is taxed by the original state, while income earned after the move is taxed by the new state. Additionally, states may have different tax rates, and establishing residency can impact tax liabilities. It's important to research reciprocity agreements between states, as some states allow residents to only file taxes in their state of residence, while others may require taxes to be paid in both states.",
+    "retrieved_ids_or_titles": [
+      "571430",
+      "121551",
+      "357129",
+      "428490",
+      "424175"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Can increasing my tax withholding from my full-time job cover FICA taxes for my freelance work?",
+    "gold_answer": "",
+    "pred_answer": "Yes, increasing your tax withholding from your full-time job can help cover your FICA taxes for your freelance work.",
+    "retrieved_ids_or_titles": [
+      "136804",
+      "302049",
+      "147080",
+      "531356",
+      "240259"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "How to calculate my estimated taxes. 1099 MISC + Self Employment",
+    "gold_answer": "",
+    "pred_answer": "To calculate your estimated taxes with 1099-MISC income and self-employment, you should fill out Schedule C to report your business income and expenses. Estimate your tax bracket after deductions, multiply your freelance income (after business expenses) by your tax rate, and add approximately 12-13% for Social Security/Medicare on income between $90K and $118,500. You can also use the Excel 1040 spreadsheet for a more detailed estimate.",
+    "retrieved_ids_or_titles": [
+      "450808",
+      "277812",
+      "260795",
+      "302049",
+      "588253"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "What items are exempt from the VAT? [U.K.]",
+    "gold_answer": "",
+    "pred_answer": "Some services, notably insurance and transactions with charities, are exempt from VAT.",
+    "retrieved_ids_or_titles": [
+      "232063",
+      "591940",
+      "342694",
+      "472824",
+      "306144"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Should I make extra payments to my under water mortgage or increase my savings?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "560915",
+      "126965",
+      "81906",
+      "423403",
+      "514107"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How long can I convert 401(k) to Roth 401(k)?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "248619",
+      "527010",
+      "237457",
+      "9640",
+      "478421"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Am I considered in debt if I pay a mortgage?",
+    "gold_answer": "",
+    "pred_answer": "Yes.",
+    "retrieved_ids_or_titles": [
+      "187739",
+      "366448",
+      "274870",
+      "95778",
+      "534099"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "AVS Address Verification System of BOTH Credit and Debit Cards - WHERE, HOW?",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "176596",
+      "414932",
+      "407870",
+      "121063",
+      "331176"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "How can I live outside of the rat race of American life with 300k?",
+    "gold_answer": "",
+    "pred_answer": "You can live outside of the rat race with $300k by living frugally, avoiding consumer debt, saving and investing, and potentially building passive income streams such as rental properties or investments that generate royalties. Additionally, consider remote work opportunities to avoid the traditional work cycle and focus on financial independence by ensuring your investments can outpace your expenses.",
+    "retrieved_ids_or_titles": [
+      "233562",
+      "183869",
+      "584304",
+      "406409",
+      "563257"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Claiming mileage allowances, what are the rules/guidelines?",
+    "gold_answer": "",
+    "pred_answer": "You cannot claim mileage allowances for your general commute, and if you are traveling to the same place over 40% of the time for more than two years, you are no longer allowed to claim these miles.",
+    "retrieved_ids_or_titles": [
+      "89008",
+      "51491",
+      "359131",
+      "401551",
+      "423163"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Can a car company refuse to give me a copy of my contract or balance details?",
+    "gold_answer": "",
+    "pred_answer": "No, they cannot refuse to provide you with the current balance or a balance history.",
+    "retrieved_ids_or_titles": [
+      "172855",
+      "584305",
+      "46680",
+      "29721",
+      "322238"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Tips for insurance coverage for one-man-teams",
+    "gold_answer": "",
+    "pred_answer": "Insufficient information.",
+    "retrieved_ids_or_titles": [
+      "98112",
+      "290056",
+      "382452",
+      "350151",
+      "580642"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 0
+  },
+  {
+    "question": "Vanguard ETF vs mutual fund",
+    "gold_answer": "",
+    "pred_answer": "Vanguard ETFs are typically commission-free for Vanguard clients using Vanguard Brokerage Services, while mutual funds may not incur trading commissions. Additionally, mutual funds like Admiral Shares have lower expenses and can be converted from Investor Shares without tax implications, whereas selling ETF shares to buy mutual funds may result in a taxable event.",
+    "retrieved_ids_or_titles": [
+      "536120",
+      "17208",
+      "489103",
+      "459596",
+      "387277"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Calculation, timing, and taxes related to profit distribution of an S-corp?",
+    "gold_answer": "",
+    "pred_answer": "Profit distribution from an S-Corp isn't a taxable event, but you owe taxes on the profit reported on the Schedule K, regardless of whether the money is distributed. It's advisable to ensure sufficient cash flow for operations before making distributions, and you can distribute profits monthly or quarterly in arrears. A tax accountant can help set up your books correctly to save money long-term.",
+    "retrieved_ids_or_titles": [
+      "385073",
+      "589398",
+      "150219",
+      "56718",
+      "599876"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 1,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "United States Treasury Not Endorsing Checks",
+    "gold_answer": "",
+    "pred_answer": "The United States Treasury does not endorse checks because an endorsement is often not required as long as the name on the check matches a name on the account to which it is deposited.",
+    "retrieved_ids_or_titles": [
+      "555486",
+      "465260",
+      "432327",
+      "364112",
+      "115124"
+    ],
+    "loose_recall": 1,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  },
+  {
+    "question": "Diversify my retirement investments with a Roth IRA",
+    "gold_answer": "",
+    "pred_answer": "I recommend a Roth IRA. At your age you could turn 25K into a million and never pay taxes on these earnings. Open two accounts at a discount brokerage firm. Account one should be a Roth IRA, and account two a brokerage account for excess funds that can't be placed in the Roth IRA. Each year, it will be easy to transfer money into the Roth from this account. Invest in stocks and hold them for the long term. Avoid the temptation to load up on one stock.",
+    "retrieved_ids_or_titles": [
+      "46986",
+      "508185",
+      "66626",
+      "389202",
+      "175226"
+    ],
+    "loose_recall": 0,
+    "strict_recall": 0,
+    "em": 0,
+    "f1": 0,
+    "hallucination": 1
+  }
+]

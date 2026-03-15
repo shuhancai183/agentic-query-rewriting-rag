@@ -1,0 +1,3 @@
+dataset,best_strict_recall_method,best_strict_recall,lowest_hallucination_method,lowest_hallucination
+beir_fiqa,dense + baseline,0.45,hybrid + multi_rewrite,0.215
+hotpotqa,hybrid + baseline,0.284,hybrid + multi_rewrite,0.048
