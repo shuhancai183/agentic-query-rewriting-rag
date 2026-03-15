@@ -17,7 +17,7 @@ Retrieval-Augmented Generation (RAG) systems rely heavily on the quality of the 
 
 This project investigates whether **LLM-based query rewriting strategies** can improve retrieval quality and downstream QA performance in RAG pipelines.
 
-We evaluate four query strategies:
+This project evaluate four query strategies:
 
 - Baseline (no rewriting)
 - Single query rewrite
@@ -35,7 +35,7 @@ and three retrievers:
 - Dense Retrieval (MiniLM embeddings)
 - Hybrid Retrieval (BM25 + Dense)
 
-Our results show that query rewriting provides **consistent improvements on multi-hop QA tasks**, while benefits are limited when strong dense retrievers already achieve high recall.
+This project`s results show that query rewriting provides **consistent improvements on multi-hop QA tasks**, while benefits are limited when strong dense retrievers already achieve high recall.
 
 ---
 
@@ -54,7 +54,7 @@ Specifically:
 
 # Method
 
-We implement four query rewriting strategies.
+This project implement four query rewriting strategies.
 
 ## Baseline
 
